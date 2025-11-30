@@ -3,5 +3,3 @@ root
 msfadmin
 user
 test
-123456
-abc123
